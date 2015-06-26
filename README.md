@@ -1,0 +1,2 @@
+# AnySync
+Distributed synchronization tool
